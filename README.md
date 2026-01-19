@@ -21,3 +21,5 @@ Every day I learn about small problems and solve them using JavaScript. This rep
 ### JavaScript Concepts
 
 - [temporal-dead-zone.js](temporal-dead-zone.js): Demonstrate the Temporal Dead Zone (TDZ) with `let` where pre‑declaration access throws a `ReferenceError`.
+- [promise.js](promise.js): Create a promise that resolves or rejects after a delay, demonstrating `.then()`, `.catch()`, and `.finally()` chaining.
+- [event-loop.js](event-loop.js): Explain the event loop, call stack, and task queue with examples of macro tasks (setTimeout) and micro tasks (Promises).
