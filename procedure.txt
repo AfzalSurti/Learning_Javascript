@@ -1,0 +1,14 @@
+//delimeter
+
+create procedure(
+    in m1 int,
+    in m2 int,
+    in m3 int.
+    out total int,
+    out percent double
+)
+begin
+    set total=m1+m2+m3;
+    set percent=(total/300)*100;
+end//
+delimeter;
